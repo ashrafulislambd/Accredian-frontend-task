@@ -1,1 +1,1 @@
-export const BASE_URL = "https://accredian-backend-task-qtir.onrender.com/";
+export const BASE_URL = "https://accredian-backend-task-qtir.onrender.com";
